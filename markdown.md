@@ -10,9 +10,11 @@ Underlined version of H1
 Underlined version of H2
 ------------------------
 
-Italics are added using two **asterisks** or __underscores__
+Italics are added using one *asterisks* or _underscores_
 
-these can be **__combined__**
+Bold is done using two **asterisks** or __underscores__
+
+these can be *__combined__*
 
 Strikethrough using ~~two tildes~~
 
